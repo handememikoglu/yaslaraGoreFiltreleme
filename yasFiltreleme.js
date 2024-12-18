@@ -29,6 +29,5 @@ function ageFilter() {
         
     }
     
-    
 }
 ageFilter();
